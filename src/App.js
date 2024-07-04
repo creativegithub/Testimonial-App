@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
-import reviews from "./data";
-import Testimonials from "./components/Testimonials";
-import Spinner from "./components/Spinner";
+import "../App.css";
+import reviews from "../data";
+import Testimonials from "../components/Testimonials";
+import Spinner from "../components/Spinner";
 
 function App() {
 
